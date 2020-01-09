@@ -1,5 +1,7 @@
 # face_recognition
 
-this is the face recognition what base on openCV
+this is the face recognition what base on openCV and face_recognition
 
-'haarcascade_frontalface_default.xml' is needed what as configuration for face detecting.
+1. pip3 install opencv-python
+
+2. pip3 install face_recognition
